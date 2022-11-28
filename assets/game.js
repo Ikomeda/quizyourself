@@ -14,12 +14,12 @@ let availableQuestions = [];
 
 let questions = [
     {
-        question: 'What is 2 + 2?',
-        choice1: '2',
-        choice2: '4',
-        choice3: '3',
-        choice4: '78',
-        answer: 2,
+        question: 'How do you write an arrow function?',
+        choice1: 'function = () => {}',
+        choice2: 'function-arrow{}',
+        choice3: '===>>>>',
+        choice4: 'none of the above',
+        answer: 1,
     },
     {
         question: 'What Does HTML stand for?',
@@ -30,19 +30,19 @@ let questions = [
         answer: 2,
     },
     {
-        question: 'What is CSS?',
-        choice1: 'A way to style stuffs',
-        choice2: 'Creative sisters seance',
-        choice3: 'Cascading Style Sheets',
-        choice4: 'Cant Stop Smiling',
+        question: 'How do you write a console log?',
+        choice1: 'clg()',
+        choice2: 'council.loge()',
+        choice3: 'show.in.console()',
+        choice4: 'console.log()',
         answer: 3,
     },
     {
-        question: 'JavaScript is used for?',
-        choice1: 'Making code pretty',
-        choice2: 'Applying function to code',
-        choice3: 'Making interactive sites',
-        choice4: 'Playing games',
+        question: 'Which of these has correct syntax for an html file?',
+        choice1: 'index-html',
+        choice2: 'index.htmlfile',
+        choice3: 'index.html',
+        choice4: 'index/html',
         answer: 3,
     },
 ]
