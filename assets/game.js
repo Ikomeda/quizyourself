@@ -67,7 +67,7 @@ function setTime() {
             clearInterval(timerInterval);
 
             localStorage.setItem("mostRecentScore", score);
-            return window.location.assign('/end.html')
+            return window.location.assign('./end.html')
         }
     }, 1000);
 }
